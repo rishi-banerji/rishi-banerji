@@ -1,6 +1,5 @@
 ## Hey, I'm Rishi!
 
-2nd account - [rishi23437](https://github.com/rishi23437)
 <!--
 **rishi-banerji/rishi-banerji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
